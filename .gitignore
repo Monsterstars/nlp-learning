@@ -1,0 +1,8 @@
+##ignore this files##
+/.idea/
+/target/classes/
+/target/generated-sources/
+/src/main/resources/
+/src/main/webapp/
+/src/test/
+_1234.iml
